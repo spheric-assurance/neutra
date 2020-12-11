@@ -1,6 +1,6 @@
 {
   "name": "neutra",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The official UI for Spheric Assurance and Global Insurance Agency.",
   "main": "index.js",
   "scripts": {
